@@ -1,0 +1,68 @@
+2020-04-13T16:19:33+00:00 DEBUG <------------------- ExtensionHawk Stripe Payment ( Sport Shop - Charge - Order #381 ) ------------------->
+stdClass Object
+(
+    [id] => ch_1GXV0PDA1nRRXu57z92gddnb
+    [amount] => 167.72
+    [amount_refunded] => 0
+    [currency] => EUR
+    [order_amount] => 167.72
+    [order_currency] => EUR
+    [captured] => Captured
+    [transaction_id] => txn_1GXV0PDA1nRRXu57Rl214MKv
+    [mode] => Test
+    [metadata] => stdClass Object
+        (
+            [order_id] => 381
+            [Total Tax] => 0
+            [Total Shipping] => 0.00
+            [Customer IP] => ::1
+            [Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 OPR/67.0.3575.130
+            [Referer] => http://localhost/sport-shop/checkout/
+            [WP customer #] => 1
+            [Billing Email] => ardi.kransiqi99@gmail.com
+            [Products] => Erima Liga 2.0 Training Top Men - Black | 
+        )
+
+    [created] => 2020-04-13 16:19:29
+    [paid] => Paid
+    [receiptemail] => Receipt not send
+    [receiptnumber] => No Receipt Number
+    [source_type] => visa( unknown )
+    [status] => succeeded
+    [origin_time] => 2020-04-13 16:19:30
+)
+
+2020-04-13T17:20:43+00:00 DEBUG <------------------- ExtensionHawk Stripe Payment ( Sport Shop - Charge - Order #391 ) ------------------->
+stdClass Object
+(
+    [id] => ch_1GXVxaDA1nRRXu57Vjt6030C
+    [amount] => 143.76
+    [amount_refunded] => 0
+    [currency] => EUR
+    [order_amount] => 143.76
+    [order_currency] => EUR
+    [captured] => Captured
+    [transaction_id] => txn_1GXVxbDA1nRRXu57PAdUQV2e
+    [mode] => Test
+    [metadata] => stdClass Object
+        (
+            [order_id] => 391
+            [Total Tax] => 0
+            [Total Shipping] => 0.00
+            [Customer IP] => ::1
+            [Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 OPR/67.0.3575.130
+            [Referer] => http://localhost/sport-shop/checkout/
+            [WP customer #] => 1
+            [Billing Email] => ardi.kransiqi99@gmail.com
+            [Products] => Erima Liga 2.0 Training Top Men - Black | 
+        )
+
+    [created] => 2020-04-13 17:20:38
+    [paid] => Paid
+    [receiptemail] => Receipt not send
+    [receiptnumber] => No Receipt Number
+    [source_type] => visa( unknown )
+    [status] => succeeded
+    [origin_time] => 2020-04-13 17:20:39
+)
+
