@@ -1,0 +1,122 @@
+/**1.2.3.4 - 2020.03.23**/
+- Fixed: support class
+
+/**1.2.3.3 - 2020.03.23**/
+- Update: support class
+
+/**1.2.3.2 - 2019.11.16**/
+- Updated: Compatible with WP 5.3 and WooCommerce 3.8
+
+/**1.2.3.1 - 2019.10.07**/
+- Updated: Premium URL
+
+/**1.2.3 - 2019.09.24**/
+- Fixed: Wrong caching data
+- Updated: Encrypt customer info(name, city, state, country) so that real info is not shown in page source
+- Added: Support swipe notification to close for mobile devices
+- Update: 22 new beautiful templates to replace old templates
+- Update: Design
+- Added: Rounded corner style
+- Added: Image padding
+- Added: Close icon color
+
+/**1.2.2.5 - 2019.05.09**/
+- Updated: Change plugin name
+
+/**1.2.2.4 - 2019.04.04**/
+- Updated: Make admin notices dismissible
+
+/**1.2.2.3 – 2018.12.07*/
+- Fixed: Auto detect with SSL
+- Updated: Class support
+
+/**1.2.2.2 – 2018.11.29*/
+– Fixed: Update minify js and css
+
+/**1.2.2.1 - 2018.11.23*/
+- Fixed: Tab JS in backend
+- Fixed: Class support
+- Fixed: Query out of stock
+
+/**1.2.2 - 2018.11.21*/
+- Update: The same premium version
+
+/**1.2.1.4.5 - 2018.11.10*/
+- Fixed: Support class
+
+/**1.2.1.4.4 - 2018.10.17*/
+- Remove: Upgrade notice
+
+/**1.2.1.4.3 - 2018.10.15*/
+- Remove: Upgrade notice
+
+/**1.2.1.4.2 - 2018.07.13*/
+- Fixed: Class support
+
+/**1.2.1.4.1 - 2018.05.11*/
+- Fixed: Class support
+
+/**1.2.1.4 - 2018.04.16*/
+- Fixed: Class support
+
+/**1.2.1.3 - 2018.04.11*/
+- Fixed: Class support
+
+/**1.2.1.2 - 2018.04.09*/
+- Fixed: Class support
+
+/**1.2.1.1 - 2018.03.05*/
+- Fixed: Class support
+
+/**1.2.1 - 2017.12.12*/
+- Fixed: Javascript
+
+/**1.2.0 - 2017.12.08*/
+- Updated: More feature
+
+/**1.1.5.1 - 2017.11.02*/
+- Added: ABSPATH
+
+/**1.1.5 - 2017.10.28*/
+- Fixed: Error when deactivated Pro version
+- Fixed: Clickable when notification hide
+- Fixed: Thumbnail not exist
+- Updated: Data init
+
+/**1.1.4 - 2017.10.08*/
+- Fixed: Random names and cities
+
+/**1.1.3 - 2017.09.06*/
+- Optimized: Request db
+- Fixed: Ajax search product with big data
+
+/**1.1.2.1- 2017.09.06**/
+- Optimize: Show on front page without Session
+
+/**1.1.2 - 2017.8.20**/
+- Fixed: Compatible with WooCommerce 3.0.0, higher and lower
+- Optimize: Get option, Ads
+
+/**1.1.1 - 2017.6.28**/
+- Fixed: No sound on mobile
+
+/**1.1 - 2017.2.17**/
+- Fixed: Link
+- Fixed: Get Product variation
+
+/**1.0.3 - 2017.2.17**/
+- Fixed: Admin menu hover
+
+/**1.0.2 - 2017.2.10**/
+- Fixed: Save button in backend
+- Fixed: Responsive on mobile
+- Fixed: Product image thumb
+
+/**1.0.1 - 09.14.2016**/
+- Fixed: Conflict JS in Admin setting
+- Fixed: Ad Session
+- Added: Update Pro version
+- Added: Language translate
+
+/**1.0.0 - 07.13.2016**/
+- The first released
